@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Cthe-Github
-- 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ... softwareengineering
-- 💞️ I’m looking to collaborate on ... new coding
-- 📫 How to reach me ... faniehstheh@gmail.com
+- 👋 Hi,
+- 👀 I’m interested in ..
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me ...
 
 <!---
 Cthe-Github/Cthe-Github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
